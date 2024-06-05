@@ -19,7 +19,7 @@ Currently tracking 1,000+ YouTube channels, we allow for average calculations, o
 
 We also offer moderation commands like `/slowmode` and more to come in the future.<br><br>
 
-But **Communitrics** doesn't just stop there! We also offer a [live-counts website](https://communitrics.com/), a [free API](https://api.communitrics.com/) (read the API docs here) and more!
+But **Communitrics** doesn't just stop there! We also offer a [live-counts website](https://communitrics.com/), a [free API](https://api.communitrics.com/) (read the API docs [here](https://github.com/Communitrics/api)) and more!
 
 <p align="center">
   <img src="https://github.com/Communitrics/.github/assets/164521219/520c3f07-bab4-4421-8123-76547699eda1" alt="Channel Statistics Embed" width="500"/>
