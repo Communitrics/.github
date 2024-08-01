@@ -1,6 +1,6 @@
 ## Communitrics is your all-in-one Discord Bot for tracking YouTube milestones in real-time.
 
-<img align="right" src="https://cdn.discordapp.com/attachments/1230813707483873291/1240113738376413184/Discord_Image_1024.png?ex=666110eb&is=665fbf6b&hm=24dbbef7dcee5b4fc9b5ec8b81b3ddb1958dc2c755e22c93982ad271e77fe2f6&" width="150">
+<img align="right" src="https://api.communitrics.com/youtube/profile?channel=communitrics" width="150">
 
 ### Communitrics is designed to help you stay updated with your favorite YouTube channels' milestones, all within your Discord server.
 
